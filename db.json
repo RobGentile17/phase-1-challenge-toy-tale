@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Forky",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/Forky_waving.png",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Zurg",
+      "image": "https://static.wikia.nocookie.net/disney/images/6/66/Evil_emperor_zurg_toy_story_wallpaper.jpg/revision/latest/scale-to-width-down/1000?cb=20131220225255",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Mrs. Potato Head",
+      "image": "https://static.wikia.nocookie.net/pixar/images/a/a7/BEST_MRS.POTATO_HEAD_EVER.png/revision/latest/scale-to-width-down/434?cb=20210210225058",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
